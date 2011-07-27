@@ -11,3 +11,8 @@ try to comment the code well enough for me to understand after a few months. If
 I remember to.
 
 I hope it serves some purpose to someone
+
+Snippets so far
+===============
+
+* Mergesort
